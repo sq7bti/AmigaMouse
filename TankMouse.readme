@@ -31,3 +31,6 @@ TankMouse.driver processes signals other signals produced by connected mice,
 but TankMouse support scroll forward and backward only. Please report any
 incompatibilities of this driver with other adapter supporting (subset of)
 Cocolino driver and other mice.
+
+Source code is available in the branch tankmouse of github repository:
+https://github.com/sq7bti/AmigaMouse/tree/tankmouse
